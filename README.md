@@ -1,6 +1,6 @@
 <h1 align="center">Привет 👋, я Саша</h1>
 
-<div align="center"><h3>Java Backend Developer</h3> с опытом во фронтенде (React/Angular)</div>
+<div align="center"><h3>Java Backend Developer</h3> с опытом на Scala и во Frontend (React/Angular)</div>
 
 ## 🚀 Обо мне: От Клиента к Серверу
 
